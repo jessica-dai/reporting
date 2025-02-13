@@ -1,6 +1,6 @@
 ## Fairness and Performance Testing via Incidents
 
-This is the code and data for reproducing the experiments described in the paper "From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms."
+This is the code and data for reproducing the experiments described in the paper "From Individual Experience to Collective Evidence: A Reporting-Based Framework for Identifying Systemic Harms" (arxiv link [here](http://arxiv.org/abs/2502.08166)). 
 
 To reproduce the paper results exactly, the shell scripts (`run_covid.sh` and `run_hmda.sh`) can be run directly (depending on your local environment, you may need to install packages from `requirements.txt` within the shell script). The `results` directory contains results from running those two shell scripts. The notebooks `plotting-covid.ipynb` and `plotting-hmda.ipynb` contain code for plotting and interpreting results. 
 
